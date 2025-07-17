@@ -50,7 +50,9 @@ npm install
 ```bash
 npm start
 ```
+expo install expo-linear-gradient
 
+npm install react-native-vector-icons
 3. Escanear el código QR con Expo Go o ejecutar en simulador
 
 ## Estructura del Proyecto
