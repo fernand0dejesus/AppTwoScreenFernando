@@ -40,6 +40,19 @@ Esta aplicación React Native cumple con los requisitos del módulo 3.5 "Desarro
 - Expo
 
 ## Instalación y Ejecución
+## 📦 Instalación de Librerías Requeridas
+
+Ejecuta el siguiente comando para instalar todas las dependencias necesarias para que la aplicación funcione correctamente con Expo y React Navigation:
+
+```bash
+npm install @react-navigation/native @react-navigation/stack react-native-vector-icons
+
+expo install react-native-gesture-handler@~2.24.0 \
+             react-native-reanimated@~3.17.4 \
+             react-native-screens@~4.11.1 \
+             react-native-safe-area-context@5.4.0 \
+             @react-native-masked-view/masked-view \
+             expo-linear-gradient
 
 1. Instalar dependencias:
 ```bash
